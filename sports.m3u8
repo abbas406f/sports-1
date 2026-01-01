@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="رياضة",bein sports  11
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+
+#EXTINF:-1 group-title="رياضة",bein sports 2 
+https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/adaptive.m3u8
+
+#EXTINF:-1 group-title="أخبار", bein sports 3
+https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/adaptive.m3u8
+
+#EXTINF:-1 group-title="أخبار", bein sports 4 
+https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/adaptive.m3u8
+
+#EXTINF:-1 group-title="أفلام",5bein sports  5
+https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/adaptive.m3u8
+
+#EXTINF:-1 group-title="بين سبورت", bein sports 6
+http://91.109.114.8/bein1/index.m3u8
+
+#EXTINF:-1 group-title="أطفال", bein sports 7
+http://example.com/live/kids1.m3u8
